@@ -171,6 +171,10 @@ Predict genre from uploaded audio file.
 - **Classes:** 10 genres (blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock)
 - **Training:** 15 epochs with Adam optimizer
 
+## Trained Model
+Download the trained model (.pth):
+[](https://drive.google.com/file/d/16l0tt8K3J4XW5XUZQCZI5KvmmMrSM-2s/view?usp=sharing)
+
 ## Development
 
 ### Backend Development
