@@ -173,7 +173,7 @@ Predict genre from uploaded audio file.
 
 ## Trained Model
 Download the trained model (.pth):
-[](https://drive.google.com/file/d/16l0tt8K3J4XW5XUZQCZI5KvmmMrSM-2s/view?usp=sharing)
+[Model Link](https://drive.google.com/file/d/16l0tt8K3J4XW5XUZQCZI5KvmmMrSM-2s/view?usp=sharing)
 
 ## Development
 
