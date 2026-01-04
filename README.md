@@ -173,7 +173,7 @@ Predict genre from uploaded audio file.
 
 ## Trained Model
 Download the trained model (.pth):
-[Model Link](https://drive.google.com/file/d/16l0tt8K3J4XW5XUZQCZI5KvmmMrSM-2s/view?usp=sharing)
+[Model Link](https://huggingface.co/Ste17/Music_genre_classifier)
 
 ## Development
 
