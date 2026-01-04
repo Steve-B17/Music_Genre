@@ -175,6 +175,12 @@ Predict genre from uploaded audio file.
 Download the trained model (.pth):
 [Model Link](https://huggingface.co/Ste17/Music_genre_classifier)
 
+
+## ScreenShots
+<img width="1656" height="970" alt="image" src="https://github.com/user-attachments/assets/83d6951a-b8e9-4a8c-98a5-9ca5b2555222" />
+<img width="1541" height="971" alt="image" src="https://github.com/user-attachments/assets/14abb73a-618c-4b55-b8dc-8106fdd9f333" />
+
+
 ## Development
 
 ### Backend Development
